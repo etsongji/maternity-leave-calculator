@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maternity-leave-calculator/static/css/main.c12e1674.css",
+    "main.js": "/maternity-leave-calculator/static/js/main.eb65fb9a.js",
+    "static/js/453.ca938eb7.chunk.js": "/maternity-leave-calculator/static/js/453.ca938eb7.chunk.js",
+    "index.html": "/maternity-leave-calculator/index.html",
+    "main.c12e1674.css.map": "/maternity-leave-calculator/static/css/main.c12e1674.css.map",
+    "main.eb65fb9a.js.map": "/maternity-leave-calculator/static/js/main.eb65fb9a.js.map",
+    "453.ca938eb7.chunk.js.map": "/maternity-leave-calculator/static/js/453.ca938eb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12e1674.css",
+    "static/js/main.eb65fb9a.js"
+  ]
+}
